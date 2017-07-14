@@ -4,6 +4,8 @@ Important Data Science & Machine Learning Packages:
 * [scipy](https://scipy.org/scipylib/index.html): Library for scientific computing
 * [metaplotlib](http://matplotlib.org/): Comprehensive 2D Plotting
 * [pandas](http://pandas.pydata.org/): Data structure and analysis
+* keras
+* Tensorflow
 
 
 Important Python Packages
